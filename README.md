@@ -1,1 +1,1 @@
-# looker_superstore
+# Creating KPI dashboard with Looker and Snowflake
